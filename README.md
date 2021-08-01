@@ -1,6 +1,5 @@
-### yo, I'm Jean - aka [mika-α][twitter] 
-
-
+[![GitHub followers](https://img.shields.io/github/followers/soruly?style=social)](https://github.com/mika-alpha)
+[![Twitter](https://img.shields.io/twitter/follow/soruly?style=social)](https://twitter.com/mika_alpha_)
 
 ---
 ### Spotify [anemone][spotify]
