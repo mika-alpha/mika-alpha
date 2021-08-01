@@ -4,7 +4,7 @@
 ---
 <div align = "top">
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a)
+<p align="center"> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a) </p>
 
 </div>
 
