@@ -2,7 +2,12 @@
 [![Twitter](https://img.shields.io/twitter/follow/mika_alpha_?style=social)](https://twitter.com/mika_alpha_)
 
 ---
+<div align = "top">
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a)
+
+</div>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xjluqub65mixcsngqlgwewfc6m&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31xjluqub65mixcsngqlgwewfc6m&redirect=true)
 ---
 <br />
