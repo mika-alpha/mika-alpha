@@ -27,7 +27,10 @@
 ---
 
 ![mika-alpha GitHub stats](https://github-readme-stats.vercel.app/api?username=mika-alpha&show_icons=true&theme=jolly)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mika-alpha&layout=compact)](https://github.com/mika-alpha/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mika-alpha&layout=compact&theme=jolly)](https://github.com/mika-alpha/github-readme-stats)
 
 [twitter]: https://twitter.com/mika_alpha_
 
