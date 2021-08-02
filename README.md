@@ -6,18 +6,12 @@
 
 <img src="https://i.pinimg.com/originals/ab/cc/3c/abcc3c5048a7f37a25d102b59c2fe0fa.gif" align = "left">
 
+<p align="right"><a href="https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a" target="_blank"> <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
-
-</div>
-
----
-<div align = "top ">
-
-<p align="center"><a href="https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a" target="_blank"> <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<p align="right"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xjluqub65mixcsngqlgwewfc6m&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31xjluqub65mixcsngqlgwewfc6m&redirect=true) </p>
 
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xjluqub65mixcsngqlgwewfc6m&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31xjluqub65mixcsngqlgwewfc6m&redirect=true)
 ---
 <br />
 
