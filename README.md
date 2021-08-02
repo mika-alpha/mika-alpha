@@ -7,7 +7,7 @@
   <h1>よう，I'm Jean aka mika-α</h1>
 </p>
 
-<p align="right" style="font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;"> I'm a undergraduate systems' engineering student, and I'm currently learning about computer science and competitive programming on my own. <br> I love visual novels and music .</p>
+<p align="right"> I'm a undergraduate systems' engineering student,<br> and I'm currently learning about computer science and competitive programming on my own.  <br> I love visual novels, music and digital art</p>
 
 ---
 
