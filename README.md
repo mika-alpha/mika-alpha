@@ -7,6 +7,8 @@
   <h1>よう，I'm Jean aka mika-α</h1>
 </p>
 
+<p align="right"> I'm a undergraduate systems' engineering student, and I'm currently learning about computer science and competitive programming on my own. <br> I love visual novels and music .</p>
+
 ---
 
 <div align ="center" >
