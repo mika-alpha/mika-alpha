@@ -1,5 +1,5 @@
 
-<div align ="right">
+<div>
 
 [![GitHub followers](https://img.shields.io/github/followers/mika-alpha?style=social)](https://github.com/mika-alpha)
 [![Twitter](https://img.shields.io/twitter/follow/mika_alpha_?style=social)](https://twitter.com/mika_alpha_)
@@ -9,7 +9,7 @@
 </div>
 
 ---
-<div align = "top">
+<div align = "top ">
 
 <p align="center"><a href="https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a" target="_blank"> <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
