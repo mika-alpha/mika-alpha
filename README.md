@@ -13,8 +13,7 @@
   </div>
 
   <div align="left">
-    <p align="right"><a href="https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a" target="_blank"> <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-
+    <p align="center"><a href="https://open.spotify.com/user/31xjluqub65mixcsngqlgwewfc6m?si=752c5a6b619c4d3a" target="_blank"> <img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   </div>
 
 </div>
