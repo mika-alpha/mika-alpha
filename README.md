@@ -58,8 +58,8 @@
 ---
 <div align="center">
 
-<img  width="350" src="https://github-readme-stats.vercel.app/api?username=mika-alpha&show_icons=true&theme=jolly">
-<img  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-alpha&layout=compact&theme=jolly">
+<img  width="400" src="https://github-readme-stats.vercel.app/api?username=mika-alpha&show_icons=true&theme=jolly">
+<img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika-alpha&layout=compact&theme=jolly">
 
 </div>
 
