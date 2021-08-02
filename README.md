@@ -1,7 +1,10 @@
+<p align="right">
+  <a href="https://github.com/mika-alpha" target="notarget"> <img src="https://img.shields.io/github/followers/mika-alpha?style=social" align="right"> </a>
+  <a href="https://twitter.com/mika_alpha_" target="notarget"> <img src= "https://img.shields.io/twitter/follow/mika_alpha_?style=social" align="right"> </a>
+</p>
+
 <p align="center">
   <h1>よう，I'm Jean aka mika-α</h1>
-  <a href="https://github.com/mika-alpha" <img src="https://img.shields.io/github/followers/mika-alpha?style=social"> </a>
-  <a href="https://twitter.com/mika_alpha_"> <img src= "https://img.shields.io/twitter/follow/mika_alpha_?style=social"> </a>
 </p>
 
 ---
