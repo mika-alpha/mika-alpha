@@ -1,10 +1,12 @@
+<p align="center">
+  <h1>よう，I'm Jean aka mika-α</h1>
+  <a href="https://github.com/mika-alpha" <img src="https://img.shields.io/github/followers/mika-alpha?style=social"> </a>
+  <a href="https://twitter.com/mika_alpha_"> <img src= "https://img.shields.io/twitter/follow/mika_alpha_?style=social"> </a>
+</p>
 
 ---
 
 <div align ="center" >
-
-[![GitHub followers](https://img.shields.io/github/followers/mika-alpha?style=social)](https://github.com/mika-alpha)
-[![Twitter](https://img.shields.io/twitter/follow/mika_alpha_?style=social)](https://twitter.com/mika_alpha_)
 
 <img src="https://i.pinimg.com/originals/ab/cc/3c/abcc3c5048a7f37a25d102b59c2fe0fa.gif" align = "left" height="450" width="500"> 
 
