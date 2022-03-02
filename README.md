@@ -3,8 +3,11 @@
   <a href="https://twitter.com/mika_alpha_" target="notarget"> <img src= "https://img.shields.io/twitter/follow/mika_alpha_?style=social" align="right"> </a>
 </p>
 
+
+---
+
 <p align="center">
-  <h1>よう, I'm mika-α </h1> <h3> sanest Eureka Seven enjoyer </h3>
+  <h1> This is mika-α </h1>
 </p>
 
 ---
