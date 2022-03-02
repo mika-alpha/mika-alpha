@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <h1>よう，I'm mika-α </h1>
+  <h1>よう, I'm mika-α </h1> <h2> sanest Eureka Seven enjoyer </h2>
 </p>
 
 ---
