@@ -4,10 +4,8 @@
 </p>
 
 <p align="center">
-  <h1>よう，I'm Jean aka mika-α</h1>
+  <h1>よう，I'm mika-α </h1>
 </p>
-
-<p align="right"> I'm an undergraduate systems engineering student.<br> I love visual novels, music and digital art. </p>
 
 ---
 
