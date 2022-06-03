@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://github.com/mika-alpha" target="notarget"> <img src="https://img.shields.io/github/followers/mika-alpha?style=social" align="right"> </a>
-  <a href="https://twitter.com/mika_alpha_" target="notarget"> <img src= "https://img.shields.io/twitter/follow/mika_alpha_?style=social" align="right"> </a>
+  <a href="https://twitter.com/mikaalpha1" target="notarget"> <img src= "https://img.shields.io/twitter/follow/mikaalpha1?style=social" align="right"> </a>
 </p>
 
 
